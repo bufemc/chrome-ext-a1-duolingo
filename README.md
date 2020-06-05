@@ -16,8 +16,15 @@ To proceed use space bar or return key. No mouse is needed (anymore).
 
 ## Screenshot
 
-
 ![Duolingo voice recognition with enabled extension](img/screenshot.png "Duolingo voice recognition with enabled extension")
+
+## Notes
+
+This was my first public browser extension created in 2017. The used icons are bought.
+
+## Download
+
+https://chrome.google.com/webstore/detail/airport1-duolingo-improve/ldgljcgmfgjjjenhdoklnfciiaklochp
 
 ## License
  
